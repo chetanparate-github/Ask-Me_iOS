@@ -1,18 +1,28 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
-
-# Magic 8 Ball
-
-## Our Goal
-
-The objective of this challenge is to apply the skills you learned in the Dicee tutorial and get you making an app with functionality all by yourself. There’s no new concepts here. But you’re flyin’ solo this time! Most of the programming skills are gained in the challenges rather than the tutorials. It’s when you’re using your new-found programming skills to bend the app to your will that you’re truly levelling up as a developer.
-
-## What you will create
-
-We’re going to make a Magic 8 Ball app. You can ask the app to make all your hard decisions! With this app in your pocket, you’ll always have an answer to life’s many conundrums!
 
 
+# Ask Me
+The "Ask Me" is simple iOS application which shows answer on the screen everytime when the user press the ask button. This application is build and design by Chetan Parate using Xcode and Swift.
 
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
-![End Banner](Documentation/readme-end-banner.png)
+## What i have learnt while building "Rolling Dice" application?
 
+--> How to link design with code via IBActions and IBOutlets.
+
+--> I have learnt to detect user interaction through UIButtons.
+
+--> How to use Swift variables, constants and collection types.
+
+--> I have learned about randomisation in swift and range operators.
+
+--> I have learned to use Image Literals in code.
+
+--> I have learned to use Swift Playgrounds.
+
+--> I have learned about the data type system and the primitive data types such as Strings, Ints and Doubles.
+
+
+## Screenshots
+
+![Ask Me](images/Ask_Me.png)
+
+![Ask Me](images/ask.png)
