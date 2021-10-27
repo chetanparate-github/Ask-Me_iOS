@@ -4,7 +4,7 @@
 The "Ask Me" is simple iOS application which shows answer on the screen everytime when the user press the ask button. This application is build and design by Chetan Parate using Xcode and Swift.
 
 
-## What i have learnt while building "Rolling Dice" application?
+## What i have learnt while building "Ask Me" application?
 
 --> How to link design with code via IBActions and IBOutlets.
 
